@@ -3,7 +3,7 @@
 
 ## 总览
 
-`demo.py`演示了将`test.py`编码之后再恢复成原文件。
+`demo.py`演示了将`test.txt`编码之后再恢复成原文件。
 
 `encode.py`用于将原文件编码成一组DNA序列，`decode.py`用于解码恢复成原文件。
 
