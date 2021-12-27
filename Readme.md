@@ -21,3 +21,8 @@
 
 1. 安装 python3
 2. 安装 numpy,reedsolo,tqdm。一种安装方式：`$pip3 install numpy reedsolo tqdm`
+
+
+## Python2 Image Decode
+
+神奈川图片编码时使用了python2。因为python3与python2在处理同样的随机数产生不同的解码结果，现增加python2图片解码。代码在py2ImagDecode文件夹中。
